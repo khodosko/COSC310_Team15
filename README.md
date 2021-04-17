@@ -12,4 +12,5 @@ If/Else statemets - identify location (body part that user inputs) in order to c
 **Breakdown of how a conversation is outlined:**
 https://github.com/sroarty/COSC310_Team15/blob/main/outline.pdf
 
-Change
+## Language Translation:
+For the individual project I have made our physiobot be able to speak in a different language. The bot is able to take input in the French language for some of the phrases which we had before. 
